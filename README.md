@@ -28,5 +28,5 @@ npm install
 Run the following command
 
 ```bash
-npm run index.js
+node index.js
 ```
